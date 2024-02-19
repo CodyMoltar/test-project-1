@@ -1,9 +1,0 @@
-Hello, . I am a text file.
-
-Some extra text here.
-
-
-Add some more.
-
-
-Do something?
